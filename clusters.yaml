@@ -1,5 +1,1 @@
-- Account: kl-demo-4
-  AutoDeploy: true
-  Name: demo-cluster-3
-  Provider: google
-  Src: demo-cluster-3.yaml
+[]
