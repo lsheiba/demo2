@@ -1,8 +1,3 @@
-- Account: kuberlab-test
-  AutoDeploy: true
-  Name: demo-cluster-1
-  Provider: google
-  Src: demo-cluster-1.yaml
 - Account: kl-demo-3
   AutoDeploy: true
   Name: demo-cluster-2
